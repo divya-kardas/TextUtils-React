@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divya-kardas/Textutils-React.git/static/css/main.2890232c.css",
+    "main.js": "/divya-kardas/Textutils-React.git/static/js/main.45ef16b6.js",
+    "static/js/787.fb9a5fa6.chunk.js": "/divya-kardas/Textutils-React.git/static/js/787.fb9a5fa6.chunk.js",
+    "index.html": "/divya-kardas/Textutils-React.git/index.html",
+    "main.2890232c.css.map": "/divya-kardas/Textutils-React.git/static/css/main.2890232c.css.map",
+    "main.45ef16b6.js.map": "/divya-kardas/Textutils-React.git/static/js/main.45ef16b6.js.map",
+    "787.fb9a5fa6.chunk.js.map": "/divya-kardas/Textutils-React.git/static/js/787.fb9a5fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2890232c.css",
+    "static/js/main.45ef16b6.js"
+  ]
+}
